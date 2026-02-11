@@ -2,7 +2,7 @@
 Contributors: ethicalhack3r, xfirefartx, erwanlr
 Tags: wpscan, wpvulndb, security, vulnerability, hack, scan, exploit, secure, alerts
 Requires at least: 3.4
-Tested up to: 6.6
+Tested up to: 6.9
 Stable tag: 1.16
 Requires PHP: 5.5
 License: GPLv3
